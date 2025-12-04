@@ -9,7 +9,8 @@ const myfun = async() =>{
     console.log("123")
     const result = await getUserDetails("123");
     console.log(result);
-    console.log("456")
+    console.log("456");
+    console.log("Testing");
 };
 // getUserDetails("123");
 myfun();
